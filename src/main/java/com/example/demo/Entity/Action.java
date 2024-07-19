@@ -21,6 +21,8 @@ public class Action extends BaseEntity {
     @JsonProperty("title")
     private String title;
 
+
+
     @JsonProperty("details")
     private String details;
 
